@@ -3,10 +3,10 @@ note for ml
 ===
 Paper1: FCS19-safeSSL [pdf](http://www.lamda.nju.edu.cn/liyf/paper/FCS19-SafeSSL.pdf)
 ____
- Three main way used in safeSSL:
- 1.data quality
- 2.mode uncertainty
- 3.measure diversty
+ #Three main way used in safeSSL:
+ ##1.data quality
+ ##2.mode uncertainty
+ ##3.measure diversty
 
 Paper2:ICML20-DS3L [pdf](http://cs.nju.edu.cn/liyf/paper/icml20-DS3L.pdf)
 ____
