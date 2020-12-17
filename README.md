@@ -6,7 +6,7 @@ ____
 
  * Three main way used in safeSSL: 
   * 1.data quality
-   * risky data
+    * risky data
   * 2.mode uncertainty
   * 3.measure diversty
 
