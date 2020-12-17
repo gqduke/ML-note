@@ -1,7 +1,7 @@
 # ML-note
 note for ml
 ===
-Paper1: FCS19-safeSSL [pdf](http://www.lamda.nju.edu.cn/liyf/paper/FCS19-SafeSSL.pdf)
+Paper1: FCS19-safeSSL :Safe semi-supervised learning: a brief introduction [pdf](http://www.lamda.nju.edu.cn/liyf/paper/FCS19-SafeSSL.pdf)
 ____
 
  * Three main way used in safeSSL: 
